@@ -4,14 +4,17 @@
 I’m a software developer transitioning into data analytics, focusing on Python to build a strong foundation for data analysis and automation. While my primary goal is to develop expertise in data analytics, I also have an interest in cybersecurity and how data security plays a role in analytics.
 
 ### 🛠 What I’m Working On:
-- Learning core Python programming concepts to build my skills for cybersecurity.
-Exploring beginner cybersecurity topics to understand how Python can be applied to network security and data protection. </br>
+- Learning core Python programming concepts for data analysis, visualization, and automation.
+- Exploring data manipulation techniques using Pandas and NumPy.
+- Understanding how data security and privacy impact analytics. </br>
 ### 🌱 Currently Learning:
-- Python basics for tasks in data analysis and automation.
-Introductory cybersecurity principles, like secure coding and basic encryption techniques.</br>
+- Python for data cleaning, processing, and exploratory analysis.
+- SQL for querying databases and extracting meaningful insights.
+- Basic statistical methods to interpret data effectively. </br>
 ### 💡 Future Goals:
-- Build small Python projects that explore network monitoring and security basics.
-Continue developing skills to eventually contribute to open-source security tools.</br>
+- Build data analysis projects that showcase insights through visualization and reporting.
+- Strengthen my knowledge of database management and ETL processes.
+- Continue developing skills that could eventually intersect with data security and risk analysis. </br>
 </br>
 
 # 💻 Tech Stack:
