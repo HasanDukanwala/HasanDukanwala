@@ -1,7 +1,7 @@
 
 # 👋 Hello! I'm Hasan Dukanwala! 💫
 
-I'm a software developer with a growing interest in cybersecurity. I’m focusing on learning Python to build a solid foundation in programming, with the goal of applying these skills to cybersecurity in the future.
+I’m a software developer transitioning into data analytics, focusing on Python to build a strong foundation for data analysis and automation. While my primary goal is to develop expertise in data analytics, I also have an interest in cybersecurity and how data security plays a role in analytics.
 
 ### 🛠 What I’m Working On:
 - Learning core Python programming concepts to build my skills for cybersecurity.
