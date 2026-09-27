@@ -1,51 +1,100 @@
 
-# 👋 Hello! I'm Hasan Dukanwala! 💫
+# 👋 Hi, I'm Hasan Dukanwala
 
-I’m a software developer transitioning into data analytics, focusing on Python to build a strong foundation for data analysis and automation. While my primary goal is to develop expertise in data analytics, I also have an interest in cybersecurity and how data security plays a role in analytics.
+I'm a Software Engineering Technician graduate building my skills across **IT, software development, data, and technology**.
 
-### 🛠 What I’m Working On:
-- Learning core Python programming concepts for data analysis, visualization, and automation.
-- Exploring data manipulation techniques using Pandas and NumPy.
-- Understanding how data security and privacy impact analytics. </br>
-### 🌱 Currently Learning:
-- Python for data cleaning, processing, and exploratory analysis.
-- SQL for querying databases and extracting meaningful insights.
-- Basic statistical methods to interpret data effectively. </br>
-### 💡 Future Goals:
-- Build data analysis projects that showcase insights through visualization and reporting.
-- Strengthen my knowledge of database management and ETL processes.
-- Continue developing skills that could eventually intersect with data security and risk analysis. </br>
-</br>
+I enjoy learning how systems work, solving practical problems, and building small projects to refresh and strengthen my technical skills. I'm currently working toward an **IT-focused career**, with a long-term interest in **cybersecurity**.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-plastic&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=plastic&logo=kaggle&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white) 
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=plastic&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
-</br></br>
+## 🛠️ What I'm Working On
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HasanDukanwala&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanDukanwala&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=HasanDukanwala&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+- Refreshing and strengthening my Python and Django skills through personal projects.
+- Building practical applications rather than only following tutorials.
+- Improving my SQL, database, and Excel skills.
+- Learning more about computer systems, troubleshooting, networking, and IT support.
+- Building a stronger foundation for a future career in cybersecurity.
 
-  
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HasanDukanwala&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🚀 Current Project
+
+### Period Tracking Application
+
+A personal Django/Python web application that allows users to enter menstrual-cycle start and end dates through a calendar interface.
+
+The application calculates and displays:
+
+- Average cycle length
+- Average cycle duration
+- Estimated next period
+- Estimated ovulation date
+- Estimated fertile window
+- Previous cycle history
+
+I'm using this project to practice Python/Django development, application logic, testing, troubleshooting, and working with user input.
+
+## 📊 Excel Project
+
+### Work-Time & Pay-Period Tracker
+
+A personal Excel tool I created to track daily working hours and automatically calculate totals for selected pay periods.
+
+Features include:
+
+- XLOOKUP
+- Data-validation drop-down lists
+- Automated calculations
+- Pay-period selection
+- Macro-based creation of daily worksheets from a standard template
+
+## 💻 Technical Skills
+
+### Programming & Web
+- Python
+- Django
+- C
+- C++
+- HTML
+- CSS
+- JavaScript
+
+### Data & Databases
+- SQL
+- MySQL
+- SQLite
+- Microsoft Excel
+- Power BI
+
+### Tools
+- Git
+- GitHub
+- Visual Studio Code
+- PyCharm
+
+## 🌱 Currently Learning
+
+- IT support and troubleshooting
+- Computer systems and networking fundamentals
+- Python and Django
+- SQL and databases
+- Cybersecurity fundamentals
+
+## 🎯 Career Direction
+
+I'm currently interested in opportunities involving:
+
+**IT Support • Technical Support • Systems • Data • Software**
+
+with a long-term goal of developing into **Cybersecurity**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HasanDukanwala&icon=6&color=1)](https://visitcount.itsvg.in)
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=HasanDukanwala&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HasanDukanwala&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+Thanks for visiting my profile!
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
